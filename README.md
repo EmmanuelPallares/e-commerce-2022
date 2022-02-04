@@ -7,4 +7,5 @@ Get free for pull request and comments.
 
 For local instance git clone and the folder open the terminal and npm install & npm run start
 
+LIVE DEMO https://e-commerce-2022-8vvu0wxan-emmanuelpallares.vercel.app
 
